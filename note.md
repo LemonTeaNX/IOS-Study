@@ -1,0 +1,2 @@
+var: variable
+let: constant
